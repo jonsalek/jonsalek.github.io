@@ -1,6 +1,6 @@
 :root {
-    --primaryText: #fff;
-    --secondaryText: #ff015e;
+    --primaryText: #010101;
+    --secondaryText: #CC5500;
     --primary: rgba(156, 39, 176, .60);
     --secondary: rgba(255, 1, 94, .20); 
     --buttonHover: rgba(204, 85, 0, .40);
